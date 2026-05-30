@@ -1,7 +1,7 @@
  
 <div align="center">
 
-# Inverse-Trigonometry-Derivations
+# Inverse-Trigonometric-Derivations
 
 </div>
 
