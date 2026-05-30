@@ -31,3 +31,13 @@ Furthermore, these derivations are almost purely from the author's own thinking 
 <div align="Left"> <p> The three, standard trigonometric functions: Sine, Cosine, and Tangent, their use in right triangles were inevitable, but this isn't Pythagorean all over again, it's about their graphs; Beyond what most were taught, the author seeks to show you how circles help you graph the three.</p>
 
 </div>
+<div align="center">
+
+![Unit Circle's Right Triangle](SmartSelect_20260531_011407_DrawNote.jpg)
+
+</div>
+<div align="Right"
+
+But, for the sake of context, I added trigonometric ratios, if you remembered that x corresponds to the adjacent side, and the y corresponds to the opposite side. Whilst radius(r) is the hypotenuse. All with respect to the reference angle theta(). Later, you'll be reading alot of these, to understand what we're truly doing here, you must understand or remember this one.
+
+</div>
