@@ -22,4 +22,6 @@ Furthermore, these derivations are almost purely from the author's own thinking 
 
 **<div align="center"> — Author's Note </div>**
 
+<div align="center">
 ## *Trigonometric Three's Nature*
+</div>
