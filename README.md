@@ -38,6 +38,6 @@ Furthermore, these derivations are almost purely from the author's own thinking 
 </div>
 <div align="Right"
 
-But, for the sake of context, I added trigonometric ratios, if you remembered that x corresponds to the adjacent side, and the y corresponds to the opposite side, whilst radius(r) is the hypotenuse. All with respect to the reference angle theta(θ), x also corresponds to cosine, likewise, y corresponds to sine, and radius(r) corresponds to tangent. Later, you'll be seeing alot of these, to understand what we're truly doing here, you must understand or remember what we've done here. After this, we'll go over the rotation of that triangle with respect to the center of the circle, and it's relationships with the graphs of sine, cosine, and tangent.
+But, for the sake of context, I added trigonometric ratios, if you remembered that x corresponds to the adjacent side, and the y corresponds to the opposite side, whilst radius(r) is the hypotenuse. All with respect to the reference angle theta(θ), x also corresponds to cosine, likewise, y corresponds to sine, and radius(r) corresponds to tangent, whilst that yellow theta(θ) is what you call the arclength, in this case, the arclength is just the reference angle's angle. Later, you'll be seeing alot of these, to understand what we're truly doing here, you must understand or remember what we've done here. After this, we'll go over the rotation of that triangle with respect to the center of the circle, and it's relationships with the graphs of sine, cosine, and tangent.
 
 </div>
