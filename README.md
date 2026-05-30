@@ -17,5 +17,6 @@
 </div>
 
 <div align="left">
-Furthermore, these derivations are almost purely from the author's own thinking rather than finding textbooks and simplifying it, you may find my unique style of communication peculiar, interesting, or strange. In one last addition to these, you might find certain corners of the repository to contain citations, know that it is to usually expand on the idea being discussed. 
+Furthermore, these derivations are almost purely from the author's own thinking rather than finding textbooks and simplifying it, you may find my unique style of communication peculiar, interesting, or strange. In one last addition to these, you might find certain corners of the repository to contain citations and images, know that it is to usually expand on the idea being discussed. 
 </div>
+<div align="center"> **Author's Note** </div>
