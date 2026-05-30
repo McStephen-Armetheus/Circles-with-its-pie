@@ -1,6 +1,8 @@
 This piece is licensed under 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
+Copyright (C) 2026 McStephen Armetheus
+
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
