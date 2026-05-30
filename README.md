@@ -45,6 +45,7 @@ But, for the sake of context, I added trigonometric ratios, if you remembered th
 <div align="center"> ## Sine, Cosine, Tangent function graphs
 
 **<p> 4—Frame Rotation </p>**
+
 ![Triangle Rotation](SmartSelect_20260531_020113_DrawNote.jpg)
 
 </div>
