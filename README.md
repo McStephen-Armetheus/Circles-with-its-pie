@@ -28,6 +28,6 @@ Furthermore, these derivations are almost purely from the author's own thinking 
 
 </div>
 
-<div align="Left"> <p> The three, standard trigonometric functions: Sine, Cosine, and Tangent, their use in right triangles were inevitable, but this isn't Pythagorean all over again, it's about their graphs; Beyond what most were taught, the author sought to show you how circles help you graph the three.</p>
+<div align="Left"> <p> The three, standard trigonometric functions: Sine, Cosine, and Tangent, their use in right triangles were inevitable, but this isn't Pythagorean all over again, it's about their graphs; Beyond what most were taught, the author seeks to show you how circles help you graph the three.</p>
 
 </div>
