@@ -12,6 +12,6 @@
 ![Teaser](SmartSelect_20260530_233451_DrawNote.jpg)
 
 </div>
-<div align="right">
+<div align="left">
 <p> Hello </p>
 </div>
