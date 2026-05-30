@@ -22,4 +22,4 @@ Furthermore, these derivations are almost purely from the author's own thinking 
 
 **<div align="center"> — Author's Note </div>**
 
-**## Trigonometric Three's Nature**
+## *Trigonometric Three's Nature*
