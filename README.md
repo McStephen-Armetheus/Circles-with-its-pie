@@ -44,7 +44,7 @@ But, for the sake of context, I added trigonometric ratios, if you remembered th
 
 <div align="center"> 
 
-## Sine, Cosine, Tangent function graphs
+## *Sine, Cosine, Tangent function graphs*
 
 **<p> 4—Frame Rotation </p>**
 
