@@ -38,6 +38,6 @@ Furthermore, these derivations are almost purely from the author's own thinking 
 </div>
 <div align="Right"
 
-But, for the sake of context, I added trigonometric ratios, if you remembered that x corresponds to the adjacent side, and the y corresponds to the opposite side. Whilst radius(r) is the hypotenuse. All with respect to the reference angle theta(). Later, you'll be reading alot of these, to understand what we're truly doing here, you must understand or remember this one.
+But, for the sake of context, I added trigonometric ratios, if you remembered that x corresponds to the adjacent side, and the y corresponds to the opposite side, whilst radius(r) is the hypotenuse. All with respect to the reference angle theta(), x also corresponds to cosine, likewise, y corresponds to sine, and radius(r) corresponds to tangent. Later, you'll be reading alot of these, to understand what we're truly doing here, you must understand or remember this one.
 
 </div>
