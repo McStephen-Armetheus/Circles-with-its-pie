@@ -36,7 +36,7 @@ Furthermore, these derivations are almost purely from the author's own thinking 
 ![Unit Circle's Right Triangle](SmartSelect_20260531_011407_DrawNote.jpg)
 
 </div>
-<div align="Right"
+<div align="Right">
 
 But, for the sake of context, I added trigonometric ratios, if you remembered that x corresponds to the adjacent side, and the y corresponds to the opposite side, whilst radius(r) is the hypotenuse. All with respect to the reference angle theta(θ), x also corresponds to cosine, likewise, y corresponds to sine, and radius(r) corresponds to tangent, whilst that yellow theta(θ) is what you call the arclength, in this case, the arclength is just the reference angle's angle. Later, you'll be seeing alot of these, to understand what we're truly doing here, you must understand or remember what we've done here. After this, we'll go over the rotation of that triangle with respect to the center of the circle, and it's relationships with the graphs of sine, cosine, and tangent.
 
@@ -51,3 +51,20 @@ But, for the sake of context, I added trigonometric ratios, if you remembered th
 ![Triangle Rotation](SmartSelect_20260531_020113_DrawNote.jpg)
 
 </div>
+<div align="Right">
+
+The illustration above shows a right triangle moving in a counter-clockwise manner and it assumes the circle's centered at [0,0] with its radius as one. Here, the sides are clarified as sine, cosine, tangent, and you may spot points, preferably P and P'.
+
+
+</div>
+<div align="center">
+
+
+**Point P and P' and their differences**
+
+</div>
+
+<div align="left">
+
+Both two points are coloured, in the illustration above, P is pink and P' is red.
+The pink point[P] only traverse values between x=[1,-1] whilst the red point[P'] traverse all values associated with the circumference of said circle.
