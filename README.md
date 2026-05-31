@@ -75,3 +75,8 @@ Following the red point, from its starting position at *(1,0)* towards *π/2* or
 
 *cos(x) = sin(x+π/2)*
 
+
+
+</div>
+
+
