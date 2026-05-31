@@ -53,7 +53,7 @@ But, for the sake of context, I added trigonometric ratios, if you remembered th
 </div>
 <div align="Right">
 
-The illustration above shows a right triangle moving in a counter-clockwise manner and it assumes the circle's centered at [0,0] with its radius as one. Here, the sides are clarified as sine, cosine, tangent, and you may spot points, preferably P and P'.
+The illustration above shows a right triangle moving in a counter-clockwise manner, from the 1st quadrant to the 4th, totalling a full rotation: 2π or 360⁰, and it assumes the circle's centered at [0,0] with its radius as one. Here, the sides are clarified as sine, cosine, tangent, and you may spot points, preferably P and P'.
 
 
 </div>
