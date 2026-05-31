@@ -53,12 +53,12 @@ But, for the sake of context, I added trigonometric ratios, if you remembered th
 </div>
 <div align="Right">
 
-The illustration above shows a right triangle moving in a counter-clockwise manner, from the 1st quadrant to the 4th, totalling a full rotation: 2π or 360⁰, and it assumes the circle's centered at [0,0] with its radius as one. Here, the sides are clarified as sine, cosine, tangent, and you may spot points, preferably P and P'.
-
+The illustration above shows a right triangle moving in a counter-clockwise manner, from the 1st quadrant to the 4th, totalling a full rotation: 2π or 360⁰, and it assumes the circle's centered at *[0,0]* with its radius as one. Here, the sides are clarified as sine, cosine, tangent, and you may spot points, preferably P and P'.
 
 </div>
-<div align="center">
 
+
+<div align="center">
 
 **Point P and P' and their differences**
 
@@ -67,4 +67,11 @@ The illustration above shows a right triangle moving in a counter-clockwise mann
 <div align="left">
 
 Both two points are coloured, in the illustration above, P is pink and P' is red.
-The pink point[P] only traverse values between x=[1,-1] whilst the red point[P'] traverse all values associated with the circumference of said circle.
+The pink point[P] only traverse values between *x=[1,-1]* whilst the red point[P'] traverse all values associated with the circumference of said circle.
+Following the red point, from it's starting position at *(1,0)* towards *π/2* or *(0,1)*, this is the first 90⁰ rotation, and following the pink point[P]: The boundaries of both sine and cosine is *y=(1,-1)* which means cosine starts at it's highest at *x=1*, but as we approach *x=0* or a the center of the circle, cosine reaches it's inflection point whilst sine is at it's highest.
+
+</div>
+<div align="center">
+
+cos(x) = sin(x+π/2)
+
