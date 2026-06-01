@@ -76,6 +76,7 @@ Following the red point, from its starting position at *(1,0)* towards *π/2* or
 *cos(x) = sin(x+π/2)*
 
 **Illustration below shows offset**
+**and the graph of sine and cosine**
 
 ![Graph Comparison1](SmartSelect_20260601_233227_DrawNote.jpg)
 
