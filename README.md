@@ -106,11 +106,7 @@ These functions also has boundaries like their counterparts, each boundaries are
 
 <div align=right>
 
-Arcsine is bounded by a sweep counter-clockwise from *-π/2* to *π/2*.
-Which if you followed *y = arcsin(x)* to *sin(y) = x* you'd find that plugging in values between the radian interval of *-π/2* and *π/2*, or even their degree counter parts 270⁰ to 90⁰. You will find that this covers all x-values e.g. from *-1* to *1*.
-This is shown by *θ = arcsin(y/r)* where r means radius and y mean she opposite side of the reference angle, this is derived from *sine(θ) = y/r* from the Pythagorean theorem.
-Observe the 4–Frame rotation once more, assuming *r=1*, at *x=1* your opposite side(y) is *zero*, and your adjacent side(x) is exactly the radius' length. Likewise at *x=0, y=1*. *y=1* is the point equivalent of *π/2* radian angle, at this point your opposite side is the same length as your radius. *θ = arcsin(1/1) = π/2*. In a circle, the **standard** arcsine is actually bounded to the 4th quadrant and 1st quadrant, sweeping in a counter-clockwise manner.
-You may ask why only the 1st quadrant and 4th quadrant? Well, it has something to deal with mirroring, if we moved a right triangle from the 1st quadrant to the 2nd quadrant, we'd observe that this triangle is mirrored with respect to the triangle in the 1st quadrant. The x-interval repeats the same values as well as our y-interval, unless if you're trying to graph sine, cosine, and tangent, you mustn't let the values repeat—although you could theoretically can, a sweep from *-π/2* to *π/2* is sufficient, this sweep resets back to *-π/2* once it reaches *π/2*, and if you do, you'd risk having a graph that looks like the standard three trigonometric functions.
+
 
 </div>
 
