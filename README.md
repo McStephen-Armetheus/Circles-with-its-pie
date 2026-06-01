@@ -87,24 +87,28 @@ Following the red point, from its starting position at *(1,0)* towards *π/2* or
 
 <div align="left">
 
-These three trigonometric functions are inverses of their counterparts, preceded by a prefix of *arc-". You may remember that trigonometric functions, when used, gives you the angle, likewise, to invert that, you must take the arc function, therefore giving you the length of a side in a triangle.
+These three trigonometric functions are inverses of their counterparts, preceded by a prefix of *arc-". You may remember that trigonometric functions, when used, gives you the length of a side, likewise, to invert that, you must take the arc function, therefore giving you the angle of your referenced angle in a triangle.
 These functions also has boundaries like their counterparts, each boundaries are:
 
 </div>
 
 <div align="center">
 
-*arcsine –    y = (π/2, -π/2), x = (1, -1)*
+*arcsine –    y = (π/2, -π/2), x = (1, -1)
+θ = arcsin(y/r)*
 
-*arccosine –  y = (0, π/2), x = (1, -1)*
+*arccosine –  y = (0, π), x = (1, -1)
+θ = Arccos(x/r)*
 
-*arctangent – y = [π/2, -π/2], x = (∞, -∞)*
+*arctangent – y = [π/2, -π/2], x = (∞, -∞) θ = arctan(y/x)*
 
 **Arcsine's Boundary**
 
 </div>
 
 <div align=right>
+
+
 
 
 
