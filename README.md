@@ -94,13 +94,13 @@ These functions also has boundaries like their counterparts, each boundaries are
 
 <div align="center">
 
-*arcsine –    y = (π/2, -π/2), x = (1, -1).*
+*arcsine –    y = (π/2, -π/2), x = (1, -1).||*
 *θ = arcsin(y/r)*
 
-*arccosine –  y = (0, π), x = (1, -1).*
+*arccosine –  y = (0, π), x = (1, -1).||*
 *θ = Arccos(x/r)*
 
-*arctangent – y = [π/2, -π/2], x = (∞, -∞).* *θ = arctan(y/x)*
+*arctangent – y = [π/2, -π/2], x = (∞, -∞).||* *θ = arctan(y/x)*
 
 **Arcsine's Boundary**
 
