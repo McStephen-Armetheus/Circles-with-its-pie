@@ -94,11 +94,19 @@ These functions also has boundaries like their counterparts, each boundaries are
 
 <div align="center">
 
-*arcsine – y = (π/2, -π/2), x = (1, -1)*
+*arcsine –    y = (π/2, -π/2), x = (1, -1)*
 
-*arccosine – y = (0, π/2), x = (1, -1)*
+*arccosine –  y = (0, π/2), x = (1, -1)*
 
-*arctangent – y = (π/2, -π/2), x = (∞, -∞)*
+*arctangent – y = [π/2, -π/2], x = (∞, -∞)*
+
+**Arcsine's Boundary**
+
+</div>
+
+<div align=right>
+
+
 
 
 
