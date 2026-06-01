@@ -68,7 +68,7 @@ The illustration above shows a right triangle moving in a counter-clockwise mann
 
 Both two points are coloured, in the illustration above, P is pink and P' is red.
 The pink point[P] only traverse values between *x=[1,-1]* whilst the red point[P'] traverse all values associated with the circumference of said circle.
-Following the red point, from its starting position at *(1,0)* towards *π/2* or *(0,1)*, this is the first 90⁰ rotation, and following the pink point[P]: The boundaries of both sine and cosine is *y=(1,-1)* which means cosine starts at its highest at *x=1*, but as we approach *x=0* or a the center of the circle, cosine reaches its inflection point whilst sine is at it's highest, likewise, at *x=0* where cosine is highest, at this point: Sine is at its inflection point. To summarize, cosine's highest point is at *(1,0)* whereas sine's highest point is located at *(π/2,1)*, which just explains why the cosine function is offsetted by π/2 to the left:
+Following the red point, from its starting position at *(1,0)* towards *π/2* or *(0,1)*, this is the first 90⁰ rotation, and following the pink point[P]: The boundaries of a standard sine and cosine function is *y=(1,-1)* which means cosine starts at its highest at *x=1*, but as we approach *x=0* or the center of the circle, cosine reaches its inflection point whilst sine is at it's highest, likewise, at *x=0* where cosine is highest, at this point: Sine is at its inflection point. To summarize, cosine's highest point is at *(1,0)* whereas sine's highest point is located at *(π/2,1)*, which just explains why the cosine function is offsetted by π/2 to the left:
 
 </div>
 <div align="center">
