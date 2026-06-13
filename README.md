@@ -121,7 +121,20 @@ Fortunately, the other two: Arccosine, arctangent, has similar properties. Next 
 
 </div>
 
+<div align="center">
 
+**Arccosine's Boundary**
 
+![Arccosine Function](SmartSelect_20260613_112347_DrawNote.jpg)
 
+</div>
+
+<div align=left>
+
+Similar to arcsine, but arccosine sweeps horizontally from *2π or 0* to *π*. Again why is our arccosine's boundary that way?
+Similarly once more, remember that *cos(y) = x or cos(θ) = a/H*. Unlike sine's: sin(x) = y, cosine is flipped to be horizontal, switching the variables in place.
+Coming back to that triangle metaphor, the line starts completely flat from the center to *x=1* or it lies completely flat at *2π or 0, say 0*. In this instance, your radius, or hypothenuse's length is indifferent from the adjacent's. Assuming the length of our radius is *r=1*, we find that our adjacent's length in this instance is also *a=1*.
+Therefore, *cos(0) = 1/1: 0 = arccos(1/1)*, conversely, when *cos(π) = -(1/1): π = arccos(-(1/1))*. Hence it's x-boundaries of (1,-1) from it's y-boundaries of (0, π), the trace stops COMPLETELY at *x = -1* from *x = 1* with a counter-clockwise rotation, once it sweeps from that once, it will yield the function arccosine, it is sufficient because it captures all values between the x-boundaries of *(1,-1)*, the sweep captures all the given length values relative to your radius. It is also appropriate to know that arccosine's inflection point is at *y = π/2*, in other words, the moment where it crosses from the 1st quadrant to the 2nd quadrant relative to our circle.
+
+</div>
 
