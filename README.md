@@ -17,7 +17,11 @@
 </div>
 
 <div align="left">
-Furthermore, these derivations are almost purely from the author's own thinking rather than finding textbooks and simplifying it, you may find my unique style of communication peculiar, interesting, or strange. In one last addition to these, you might find certain corners of the repository to contain citations and images, know that it is to usually expand on the idea being discussed. 
+
+Furthermore, these derivations are almost purely from the author's own thinking rather than finding textbooks and simplifying it, you may find my unique style of communication peculiar, interesting, or strange. In one last addition to these, you might find certain corners of the repository to contain citations and images, know that it is to usually expand on the idea being discussed.
+**What should I expect?**
+Expect in-depth explanations, visualizations, metaphors, maybe even video visualizations made by me, once I learned how to do so.
+
 </div>
 
 **<div align="center"> — Author's Note </div>**
@@ -102,11 +106,18 @@ These functions also has boundaries like their counterparts, each boundaries are
 
 **Arcsine's Boundary**
 
+![Arcsine Function](SmartSelect_20260613_105030_DrawNote.jpg)
+
 </div>
 
 <div align=right>
 
-
+As the image states, if you are able to move that line from *-π/2* to *π/2* you've effectively graphed the arcsine, well, first off: Why is arcsine's y-component boundary *-π/2* and *π/2* in the first place? 
+The answer roots down to it's standard trigonometric counterpart: Sine. We know from our very first functional illustration or the second one for that matter, that the *sin(θ)* when calculated, gives you the length of the quotient of the opposite side, and the hypothenuse. *Theta's* value is always between *0* to *2π* in radians, since anything that goes beyond *2π* generally repeats back in a full circle.
+With that triangle metaphor once more, at *π/2*, your opposite and hypotenuse are the same in terms of length: *sin(x) = y, where x = θ, y = o/H*. So, at *π/2 : y=1, if radius is also r=1*
+or: *sin(π/2) = 1/1: π/2 = arcsin(1/1)*. Likewise for *-π/2: if sin(-π/2) = -(1/1), then -π/2 = arcsin(-(1/1))*. 
+Why is this relevant you might ask? Well it is because the x values of *-π/2 to π/2* is sufficient to cover all y values from (-1, 1), if you start at y=-1, sweeping to *2π* relative to a full circle, in a counter-clockwise rotation, and COMPLETELY stop at y=1, you've graphed arcsine.
+Fortunately, the other two: Arccosine, arctangent, has similar properties. Next one this is going towards is about arccosine and it's properties.
 
 </div>
 
