@@ -18,13 +18,15 @@
 
 <div align="left">
 
-Furthermore, these derivations are almost purely from the author's own thinking rather than finding textbooks and simplifying it, you may find my unique style of communication peculiar, interesting, or strange. In one last addition to these, you might find certain corners of the repository to contain citations and images, know that it is to usually expand on the idea being discussed.
+Furthermore, these derivations are almost purely from the author's own thinking rather than finding textbooks and simplifying it, you may find my unique style of communication peculiar, interesting, or strange. In one last addition to these, you might find certain corners of the repository to contain images, know that it is to usually expand on the idea being discussed.
 **What should I expect?**
-Expect in-depth explanations, visualizations, metaphors, maybe even video visualizations made by me, once I learned how to do so.
+• Expect in-depth explanations, visualizations, metaphors, maybe even video visualizations made by me, once I learned how to do so.
+• Semi-formal style, expect many *jargons*, technical terms.
+• Expect this to assume the reader already has previous experience in dealing with trigonometric functions most of the time.
 
 </div>
 
-**<div align="center"> — Author's Note </div>**
+**<div align="center"> — Author's Note — </div>**
 
 <div align="center">
 
@@ -152,6 +154,9 @@ Arctangent now starts from *π/2* towards *-π/2*, if you were to take that purp
 Now, **WHY** do we choose our boundaries to be *-π/2 ≤ θ ≤ π/2* starting at *π/2* counter-clockwise to *-π/2*. Again, if you remember, inverse trigonometric functions allows you to take the angle *θ*, or any arbitrary angle *α* from two side's magnitude: *θ = arctan(y/x)* where both independent sine and cosine's output cannot be greater 1 and less than -1. *-1 ≤ (sin(θ), cos(θ)) ≤ 1* this is shown by the two images below from Desmos graphing calculator:
 
 ![Sine, Arcsine Boundaries | Desmos Rep](SmartSelect_20260703_161227_Desmos.jpg)
+Well, this one and the next can easily be understood using the unit circle with the right triangle inscribed with respect to the center, where it was stated that: *sin(θ) = O/H* assume new variables (x,y), let *θ = y | x = O/H* we find that: *(O/H , θ), x = sin(y) | y = arcsin(x)*, for the function θ(y) = arcsin(x) plug in *(π/2, -π/2)*, and find the corresponding function x = sin(θ(y))  values.
 ![Cosine, Arccosine Boundaries | Desmos Rep](SmartSelect_20260703_161601_Desmos.jpg)
+Similarly to sine, we can understand this property with the same method: Assume new variables (x,y), let *cos(θ) = A/H* where θ is a function of y: θ(y), and A/H as a function x yields *y = arccos(x) & x = cos(y)*
+plug in *(π/2, -π/2)* for the function θ(y) = arccos(x) and find the corresponding function x = cos(y)'s value.
 
 </div>
