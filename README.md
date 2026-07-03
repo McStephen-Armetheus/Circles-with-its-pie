@@ -5,7 +5,7 @@
 
 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Trigonometric Functions  . . . . . . . . . . . . . . . . . . . . . . 
+Trigonometric Functions  . . . . . . . . . . . . . . . . . . . . . 
 
 Unit Circle Visualization . . . . . . . . . . . . . . . . . . . . . . .
 
