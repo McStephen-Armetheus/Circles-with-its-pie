@@ -5,9 +5,9 @@
 
 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Trigonometric Functions  . . . . . . . . . . . . . . . . . . . . . 
+Trigonometric Functions  . . . . . . . . . . . . . . . . . . . . . .
 
-Unit Circle Visualization . . . . . . . . . . . . . . . . . . . . . . .
+Unit Circle Visualization . . . . . . . . . . . . . . . . . . . . . .
 
 Inverse Trigonometric Functions . . . . . . . . . . . . . . .
 
