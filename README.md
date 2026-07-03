@@ -82,12 +82,14 @@ Following the red point, from its starting position at *(1,0)* towards *π/2* or
 
 </div>
 
+<p>
 <div align="left">
 
 These three trigonometric functions are inverses of their counterparts, preceded by a prefix of *arc-". You may remember that trigonometric functions, when used, gives you the length of a side, likewise, to invert that, you must take the arc function, therefore giving you the angle of your referenced angle in a triangle.
 These functions also has boundaries like their counterparts, each boundaries are:
 
 </div>
+</p>
 
 <div align="center">
 
