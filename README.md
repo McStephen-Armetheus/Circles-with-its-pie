@@ -51,7 +51,7 @@ But, for the sake of context, I added trigonometric ratios, if you remembered th
 
 <img align="right" width="150" src="SmartSelect_20260531_020113_DrawNote.jpg" style="margin-right: 10px; margin-bottom: 10px;">
 
-The illustration above shows a right triangle moving in a counter-clockwise manner, from the 1st quadrant to the 4th, totalling a full rotation: 2π or 360⁰, and it assumes the circle's centered at *[0,0]* with its radius as one. Here, the sides are clarified as sine, cosine, tangent, and you may spot points, preferably P and P'.
+The 4-Frame Rotation illustration shows a right triangle moving in a counter-clockwise manner, from the 1st quadrant to the 4th, totalling a full rotation: 2π or 360⁰, and it assumes the circle's centered at *[0,0]* with its radius as one. Here, the sides are clarified as sine, cosine, tangent, and you may spot points, preferably P and P'.
 
 <br clear="all" />
 
