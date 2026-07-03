@@ -1,7 +1,8 @@
 <p style="text-align: justify; text-indent: 20px;">
 <div align="left">
 
-McStephen Armetheus | ( A. M. )
+#### McStephen Armetheus | ( A. M. ) |
+
 ǁ
 
 ǁ
