@@ -219,10 +219,18 @@ Well, this one and the next can easily be understood using the unit circle with 
 <br clear="all" />
 
 <img align="right" width="150" src="SmartSelect_20260703_161601_Desmos.jpg" style="margin-right: 10px; margin-bottom: 10px;">
-<p stye="text-align: justify; text-indent: 20px;">
 
 Similarly to sine, we can understand this property with the same method: Assume new variables (x,y), let *cos(θ) = A/H* where θ is a function of y: θ(y), and A/H as a function x yields *y = arccos(x) & x = cos(y)*
 plug in *(π/2, -π/2)* for the function θ(y) = arccos(x) and find the corresponding function x = cos(y)'s value.
-</p>
 <br clear="all" />
 </div>
+
+<p style="text-align: justify; text-indent: 40px;">
+<div align="right">
+
+## To conclude....
+
+The unit circle play a key role in describing trigonometric functions, inverse trigonometric functions in a way that let us view these abstract ideas beyond just numbers, or plug-chuck-and-call-it-a-day, in a way that let us understand said abstraction and appreciate it's beauty rather than skimming over it, while this paper in-fact does not include various "complicated" formulas, it is because their use to visualize the idea is trivial, and would like just be discussed in another paper. But that is infact this entire paper, describing semi-circular to circular scanning to describe and see functions beautifully derived from first principles of lemmas.
+
+</div>
+</p>
