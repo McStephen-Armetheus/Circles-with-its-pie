@@ -225,12 +225,12 @@ plug in *(π/2, -π/2)* for the function θ(y) = arccos(x) and find the correspo
 <br clear="all" />
 </div>
 
+<div align="left">
 <p style="text-align: justify; text-indent: 40px;">
-<div align="right">
 
 ## To conclude....
 
 The unit circle play a key role in describing trigonometric functions, inverse trigonometric functions in a way that let us view these abstract ideas beyond just numbers, or plug-chuck-and-call-it-a-day, in a way that let us understand said abstraction and appreciate it's beauty rather than skimming over it, while this paper in-fact does not include various "complicated" formulas, it is because their use to visualize the idea is trivial, and would like just be discussed in another paper. But that is infact this entire paper, describing semi-circular to circular scanning to describe and see functions beautifully derived from first principles of lemmas.
 
-</div>
 </p>
+</div>
