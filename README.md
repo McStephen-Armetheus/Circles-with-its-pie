@@ -11,7 +11,7 @@ Unit Circle Visualization . . . . . . . . . . . . . . . . . . . . . .
 
 Inverse Trigonometric Functions . . . . . . . . . . . . . . .
 
-Conclusion . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . .
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 
 
