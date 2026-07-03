@@ -1,6 +1,7 @@
 <p style="text-align: justify; text-indent: 20px;">
 <div align="left">
 
+Author:
 ### McStephen Armetheus | ( A. M. ) |
 
 ǁ
