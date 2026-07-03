@@ -159,4 +159,7 @@ Well, this one and the next can easily be understood using the unit circle with 
 Similarly to sine, we can understand this property with the same method: Assume new variables (x,y), let *cos(θ) = A/H* where θ is a function of y: θ(y), and A/H as a function x yields *y = arccos(x) & x = cos(y)*
 plug in *(π/2, -π/2)* for the function θ(y) = arccos(x) and find the corresponding function x = cos(y)'s value.
 
+
+<img align="left" width="250" src="SmartSelect_20260703_161227_Desmos.jpg" style="margin-right: 15px; margin-bottom: 10px;">
+
 </div>
