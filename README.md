@@ -2,7 +2,7 @@
 <div align="left">
 
 Author:
-### McStephen Armetheus | ( A. M. ) |
+### McStephen Armetheus | ( M. A. ) |
 
 ǁ
 
@@ -79,12 +79,12 @@ Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 </p>
 
 <div align="right">
-<p> This repository contains geometric and mathematical derivations of inverse trigonometric functions from arcsine to arccosine to arctangent. This repository also serves as a student-guide book to the beauty of inverse trigonometric functions as long as the license's followed</p>
+<p> This repository contains geometric and mathematical derivations of inverse trigonometric functions from arcsine, arccosine to arctangent while also serving as a student-guide book to the beauty of inverse trigonometric functions, properties, and visualizations; as long as the license's followed. The author is also recommending that you should read this in dark mode since most images here are permanently locked to a dark background. </p>
 </div>
 
 <div align="left">
 
-Furthermore, these derivations are almost purely from the author's own thinking rather than finding textbooks and simplifying it, you may find my unique style of communication peculiar, interesting, or strange. In one last addition to these, you might find certain corners of the repository to contain images, know that it is to usually expand on the idea being discussed.
+Furthermore, these derivations are almost purely from the author's own thinking rather than finding textbooks and simplifying it, you may find my unique style of communication peculiar, interesting, or strange. In one last addition to the introduction, you might find certain corners of the repository to contain images, know that it is to usually expand on the idea being discussed.
 **What should I expect?**
 • Expect in-depth explanations, visualizations, metaphors, maybe even video visualizations made by me, once I learned how to do so.
 • Semi-formal style, expect many *jargons*, technical terms.
@@ -219,10 +219,10 @@ Well, this one and the next can easily be understood using the unit circle with 
 <br clear="all" />
 
 <img align="right" width="150" src="SmartSelect_20260703_161601_Desmos.jpg" style="margin-right: 10px; margin-bottom: 10px;">
+<p stye="text-align: justify; text-indent: 20px;">
 
 Similarly to sine, we can understand this property with the same method: Assume new variables (x,y), let *cos(θ) = A/H* where θ is a function of y: θ(y), and A/H as a function x yields *y = arccos(x) & x = cos(y)*
 plug in *(π/2, -π/2)* for the function θ(y) = arccos(x) and find the corresponding function x = cos(y)'s value.
-
+</p>
 <br clear="all" />
-
 </div>
