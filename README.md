@@ -42,21 +42,18 @@ Furthermore, these derivations are almost purely from the author's own thinking 
 
 But, for the sake of context, I added trigonometric ratios, if you remembered that x corresponds to the adjacent side, and the y corresponds to the opposite side, whilst radius(r) is the hypotenuse. All with respect to the reference angle theta(θ), x also corresponds to cosine, likewise, y corresponds to sine, and radius(r) corresponds to tangent, whilst that yellow theta(θ) is what you call the arclength, in this case, the arclength is just the reference angle's angle. Later, you'll be seeing alot of these, to understand what we're truly doing here, you must understand or remember what we've done here. After this, we'll go over the rotation of that triangle with respect to the center of the circle, and it's relationships with the graphs of sine, cosine, and tangent.
 
-<div align="center"> 
+<br clear="all" />
+
 
 ## *Sine, Cosine, Tangent function graphs*
 
 **<p> 4—Frame Rotation </p>**
 
-![Triangle Rotation](SmartSelect_20260531_020113_DrawNote.jpg)
-
-</div>
-<div align="Right">
+<img align="right" width="150" src="SmartSelect_20260531_020113_DrawNote.jpg" style="margin-right: 10px; margin-bottom: 10px;">
 
 The illustration above shows a right triangle moving in a counter-clockwise manner, from the 1st quadrant to the 4th, totalling a full rotation: 2π or 360⁰, and it assumes the circle's centered at *[0,0]* with its radius as one. Here, the sides are clarified as sine, cosine, tangent, and you may spot points, preferably P and P'.
 
-</div>
-
+<br clear="all" />
 
 <div align="center">
 
