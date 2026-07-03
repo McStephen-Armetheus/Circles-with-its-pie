@@ -157,7 +157,7 @@ Now, **WHY** do we choose our boundaries to be *-π/2 ≤ θ ≤ π/2* starting 
 
 Well, this one and the next can easily be understood using the unit circle with the right triangle inscribed with respect to the center, where it was stated that: *sin(θ) = O/H* assume new variables (x,y), let *θ = y | x = O/H* we find that: *(O/H , θ), x = sin(y) | y = arcsin(x)*, for the function θ(y) = arcsin(x) plug in *(π/2, -π/2)*, and find the corresponding function x = sin(θ(y))  values.
 
-<img align="left" width="150" sec="SmartSelect_20260703_161601_Desmos.jpg" style="margin-right: 10px; margin-bottom: 10px;">
+<img align="left" width="150" src="SmartSelect_20260703_161601_Desmos.jpg" style="margin-right: 10px; margin-bottom: 10px;">
 
 Similarly to sine, we can understand this property with the same method: Assume new variables (x,y), let *cos(θ) = A/H* where θ is a function of y: θ(y), and A/H as a function x yields *y = arccos(x) & x = cos(y)*
 plug in *(π/2, -π/2)* for the function θ(y) = arccos(x) and find the corresponding function x = cos(y)'s value.
