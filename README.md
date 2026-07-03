@@ -3,8 +3,8 @@
 
 ## **Table Of Contents**
 
-Introduction            . . . . . . . . .
-Trigonometric Functions . . . . . . . . .
+Introduction
+Trigonometric Functions
 
 
 
