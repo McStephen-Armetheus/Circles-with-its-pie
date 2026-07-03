@@ -1,4 +1,17 @@
- 
+<p>
+
+
+
+
+
+
+
+
+
+ </p>
+
+
+
 <div align="center">
 
 # Inverse Trigonometric Derivations
