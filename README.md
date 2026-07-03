@@ -153,7 +153,7 @@ Therefore, *cos(0) = 1/1: 0 = arccos(1/1)*, conversely, when *cos(π) = -(1/1): 
 Arctangent now starts from *π/2* towards *-π/2*, if you were to take that purple line and let it sweep counter-clockwise towards *-π/2* ONCE, you've derived the graph of the arctangent function. Again, taking from the boundary of a tangent function such that: *m = ∆y/∆x* where *m = tan(θ), ∆y = sin(θ), ∆x = cos(θ)* yields *tan(θ)* from the point-slope formula. At *-π/2 ≤ θ ≤ π/2* cos(θ) is zero when θ is exactly -π/2 or π/2* that creates an asymptote at *(x_1, x_2) = (π/2,-π/2)* of the arctangent function.
 Now, **WHY** do we choose our boundaries to be *-π/2 ≤ θ ≤ π/2* starting at *π/2* counter-clockwise to *-π/2*. Again, if you remember, inverse trigonometric functions allows you to take the angle *θ*, or any arbitrary angle *α* from two side's magnitude: *θ = arctan(y/x)* where both independent sine and cosine's output cannot be greater 1 and less than -1. *-1 ≤ (sin(θ), cos(θ)) ≤ 1* this is shown by the two images below from Desmos graphing calculator:
 
-<img align="right" width="150" src=SmartSelect_20260703_161227_Desmos.jpg" style="margin-right: 10px; margin-bottom: 10px;">
+<img align="right" width="150" src="SmartSelect_20260703_161227_Desmos.jpg" style="margin-right: 10px; margin-bottom: 10px;">
 
 Well, this one and the next can easily be understood using the unit circle with the right triangle inscribed with respect to the center, where it was stated that: *sin(θ) = O/H* assume new variables (x,y), let *θ = y | x = O/H* we find that: *(O/H , θ), x = sin(y) | y = arcsin(x)*, for the function θ(y) = arcsin(x) plug in *(π/2, -π/2)*, and find the corresponding function x = sin(θ(y))  values.
 
