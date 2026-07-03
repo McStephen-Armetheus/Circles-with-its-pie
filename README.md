@@ -226,7 +226,7 @@ plug in *(π/2, -π/2)* for the function θ(y) = arccos(x) and find the correspo
 </div>
 
 <div align="left">
-<p style="text-align: justify; text-indent: 40px;">
+<p align="justify" style="text-indent: 40px;">
 
 ## To conclude....
 
