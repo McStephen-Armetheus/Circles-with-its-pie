@@ -37,16 +37,10 @@ Furthermore, these derivations are almost purely from the author's own thinking 
 <div align="Left"> <p> The three, standard trigonometric functions: Sine, Cosine, and Tangent, their use in right triangles were inevitable, but this isn't Pythagorean all over again, it's about their graphs; Beyond what most were taught, the author seeks to show you how circles help you graph the three.</p>
 
 </div>
-<div align="center">
 
-![Unit Circle's Right Triangle](SmartSelect_20260531_011407_DrawNote.jpg)
-
-</div>
-<div align="Right">
+<img align="right" width="150" src="SmartSelect_20260531_011407_DrawNote.jpg" style="margin-right: 10px; margin-bottom: 10px;">
 
 But, for the sake of context, I added trigonometric ratios, if you remembered that x corresponds to the adjacent side, and the y corresponds to the opposite side, whilst radius(r) is the hypotenuse. All with respect to the reference angle theta(θ), x also corresponds to cosine, likewise, y corresponds to sine, and radius(r) corresponds to tangent, whilst that yellow theta(θ) is what you call the arclength, in this case, the arclength is just the reference angle's angle. Later, you'll be seeing alot of these, to understand what we're truly doing here, you must understand or remember what we've done here. After this, we'll go over the rotation of that triangle with respect to the center of the circle, and it's relationships with the graphs of sine, cosine, and tangent.
-
-</div>
 
 <div align="center"> 
 
