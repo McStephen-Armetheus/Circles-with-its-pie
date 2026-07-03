@@ -219,7 +219,9 @@ Well, this one and the next can easily be understood using the unit circle with 
 <img align="right" width="150" src="SmartSelect_20260703_161601_Desmos.jpg" style="margin-right: 10px; margin-bottom: 10px;">
 
 Similarly to sine, we can understand this property with the same method: Assume new variables (x,y), let *cos(θ) = A/H* where θ is a function of y: θ(y), and A/H as a function x yields *y = arccos(x) & x = cos(y)*
-plug in *(π/2, -π/2)* for the function θ(y) = arccos(x) and find the corresponding function x = cos(y)'s value.
+plug in *(π/2, -π/2)* for the function θ(y) = arccos(x) and find the corresponding function x = cos(y)'s value. Now the main, last question that we have is that: How does this information connect back to tangent and arctangent? We know that *tan(θ) = O/A* and both sine and cosine independent outputs of side values are bound by* -1 ≤ (sin(θ) cos(θ)) ≤ 1* which strictly, the (1,-1) conform to the circle's radius, if the radius is 2, the coordinate is (2, -2), and the inequality changes. If tangent's equivalent is the sine quotient of cosine, and there is some ways that tan(θ) may equal Opposits/0{zero}, where a zero quotient is only possible if and only if *{cos(θ) | θ = (π/2, -π/2) => tan(θ) = Opposite/0}*
+reads: For all cos(θ) such that theta(θ) is equal to (π/2, -π/2) implies that tan(θ) is sine quotient zero, or sine divided by zero. Which, by definition creates a asymptote at y = (π/2, -π/2) on a standard arctangent graph.
+
 <br clear="all" />
 </div>
 
@@ -227,6 +229,6 @@ plug in *(π/2, -π/2)* for the function θ(y) = arccos(x) and find the correspo
 
 ## To conclude....
 
-The unit circle play a key role in describing trigonometric functions, inverse trigonometric functions in a way that let us view these abstract ideas beyond just numbers, or plug-chuck-and-call-it-a-day, in a way that let us understand said abstraction and appreciate it's beauty rather than skimming over it, while this paper in-fact does not include various "complicated" formulas, it is because their use to visualize the idea is trivial, and would like just be discussed in another paper. But that is infact this entire paper, describing semi-circular to circular scanning to describe and see functions beautifully derived from first principles of lemmas.
+The unit circle play a key role in describing trigonometric functions, inverse trigonometric functions in a way that let us view these abstract ideas beyond just numbers, or plug-chuck-and-call-it-a-day, in a way that let us understand said abstraction and appreciate it's beauty rather than skimming over it, while this paper in-fact does not include various "complicated" formulas, it is because their use to visualize the idea is trivial, and would like just be discussed in another paper. But that is infact this entire paper, describing semi-circular to circular scanning to describe and see functions beautifully derived from first principles of lemmas. Additionally, if you are clever enough, you can derive almost-all, if not every trigonometric identities just a circle and its many variants.
 
 </div>
