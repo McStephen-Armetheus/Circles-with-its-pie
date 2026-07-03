@@ -9,7 +9,7 @@ Trigonometric Functions  . . . . . . . . . . . . . . . . . . . . . .
 
 Unit Circle Visualization . . . . . . . . . . . . . . . . . . . . . .
 
-Inverse Trigonometric Functions . . . . . . . . . . . . . . . . . . . .
+Inverse Trigonometric Functions . . . . . . . . . . . . . . .
 
 Conclusion . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . .
 
