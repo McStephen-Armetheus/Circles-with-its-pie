@@ -1,4 +1,3 @@
-$\{arcsin(x)}$
 <div align="left">
 
 Author:
