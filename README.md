@@ -1,4 +1,4 @@
-$'\arcsin(x)
+$\{arcsin(x)}$
 <div align="left">
 
 Author:
